@@ -120,3 +120,5 @@ class Graph:
 
 		# return maximum flow
 		return total
+
+# SRC: https://github.com/Kumar-laxmi/Algorithms/blob/main/Python/Graphs/Dinic.py
